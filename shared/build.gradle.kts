@@ -3,7 +3,7 @@ plugins {
     kotlin("native.cocoapods")
     id("com.android.library")
     id("dev.icerock.mobile.multiplatform-resources")
-    id("dev.icerock.moko.kswift")
+    id("dev.icerock.moko.kswift") version "0.6.0"
 }
 
 version = "1.0"
